@@ -29,7 +29,7 @@ The Library Management System is a comprehensive solution that helps librarians 
 ### Setup Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/emrebaranarca/library-management-system.git
    ```
 2. Open the project in your preferred IDE
 3. Build the project using Maven:
@@ -56,11 +56,6 @@ The system provides a console-based interface with the following main operations
    - Register new users
    - Search user information
    - Update user details
-
-3. Borrowing Operations
-   - Borrow books
-   - Return books
-   - View borrowing history
 
 ### Example Usage
 ```java
